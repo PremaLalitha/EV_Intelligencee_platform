@@ -1,0 +1,479 @@
+brand,model,top_speed_kmh,battery_capacity_kWh,battery_type,number_of_cells,torque_nm,efficiency_wh_per_km,range_km,acceleration_0_100_s
+Abarth,500e Convertible,155,37.8,Lithium-ion,192,235,156,225,7.0
+Abarth,500e Hatchback,155,37.8,Lithium-ion,192,235,149,225,7.0
+Abarth,600e Scorpionissima,200,50.8,Lithium-ion,102,345,158,280,5.9
+Abarth,600e Turismo,200,50.8,Lithium-ion,102,345,158,280,6.2
+Aiways,U5,150,60.0,Lithium-ion,,310,156,315,7.5
+Aiways,U6,160,60.0,Lithium-ion,,315,150,350,7.0
+Alfa,Romeo Junior Elettrica 54 kWh,150,50.8,Lithium-ion,102,260,128,320,9.0
+Alfa,Romeo Junior Elettrica 54 kWh Veloce,200,50.8,Lithium-ion,102,345,164,310,6.0
+Alpine,A290 Electric 180 hp,160,52.0,Lithium-ion,184,285,138,310,7.4
+Alpine,A290 Electric 220 hp,170,52.0,Lithium-ion,184,300,144,305,6.4
+Audi,A6 Avant e-tron,210,75.8,Lithium-ion,150,435,146,465,6.0
+Audi,A6 Avant e-tron performance,210,94.9,Lithium-ion,180,565,151,575,5.4
+Audi,A6 Avant e-tron quattro,210,94.9,Lithium-ion,180,855,157,560,4.5
+Audi,A6 Sportback e-tron,210,75.8,Lithium-ion,150,435,136,495,6.0
+Audi,A6 Sportback e-tron performance,210,94.9,Lithium-ion,180,565,141,610,5.4
+Audi,A6 Sportback e-tron quattro,210,94.9,Lithium-ion,180,855,147,590,4.7
+Audi,Q4 Sportback e-tron 40,160,59.0,Lithium-ion,216,310,156,340,8.1
+Audi,Q4 Sportback e-tron 45,180,77.0,Lithium-ion,288,545,162,435,6.7
+Audi,Q4 Sportback e-tron 45 quattro,180,77.0,Lithium-ion,288,679,165,410,6.6
+Audi,Q4 Sportback e-tron 55 quattro,180,77.0,Lithium-ion,288,679,165,415,5.4
+Audi,Q4 e-tron 40,160,59.0,Lithium-ion,216,310,159,325,8.1
+Audi,Q4 e-tron 45,180,77.0,Lithium-ion,288,545,169,420,6.7
+Audi,Q4 e-tron 45 quattro,180,77.0,Lithium-ion,288,679,171,395,6.6
+Audi,Q4 e-tron 55 quattro,180,77.0,Lithium-ion,288,679,171,395,5.4
+Audi,Q6 e-tron,210,75.8,Lithium-ion,150,450,166,395,7.0
+Audi,Q6 e-tron Sportback,210,75.8,Lithium-ion,150,450,139,410,7.0
+Audi,Q6 e-tron Sportback performance,210,94.9,Lithium-ion,180,485,145,510,6.6
+Audi,Q6 e-tron Sportback quattro,210,94.9,Lithium-ion,180,855,149,500,5.9
+Audi,Q6 e-tron performance,210,94.9,Lithium-ion,180,485,171,490,6.6
+Audi,Q6 e-tron quattro,210,94.9,Lithium-ion,180,855,176,480,5.9
+Audi,S6 Avant e-tron,240,94.9,Lithium-ion,180,855,156,530,3.9
+Audi,S6 Sportback e-tron,240,94.9,Lithium-ion,180,855,149,555,3.9
+Audi,SQ6 e-tron,230,94.9,Lithium-ion,180,855,169,470,4.3
+Audi,SQ6 e-tron Sportback,230,94.9,Lithium-ion,180,855,164,495,4.3
+Audi,e-tron GT RS,250,97.0,Lithium-ion,396,865,184,525,2.8
+Audi,e-tron GT RS performance,250,97.0,Lithium-ion,396,1027,182,525,2.5
+Audi,e-tron GT S,245,97.0,Lithium-ion,396,740,172,540,3.4
+Audi,e-tron GT quattro,245,97.0,Lithium-ion,396,625,169,540,4.0
+BMW,i4 M50,225,81.3,Lithium-ion,,795,197,450,3.9
+BMW,i4 eDrive35,190,67.1,Lithium-ion,,400,174,430,6.0
+BMW,i4 eDrive40,190,81.3,Lithium-ion,,430,174,515,5.6
+BMW,i4 xDrive40,200,81.3,Lithium-ion,,600,183,490,5.1
+BMW,i5 M60 xDrive Sedan (MY25),230,81.2,Lithium-ion,,795,172,430,3.8
+BMW,i5 M60 xDrive Touring (MY25),230,81.2,Lithium-ion,,795,179,425,3.9
+BMW,i5 eDrive40 Sedan (MY25),193,81.2,Lithium-ion,,400,159,480,6.0
+BMW,i5 eDrive40 Touring (MY25),193,81.2,Lithium-ion,,400,165,465,6.1
+BMW,i5 xDrive40 Sedan (MY25),215,81.2,Lithium-ion,,590,167,465,5.4
+BMW,i5 xDrive40 Touring (MY25),215,81.2,Lithium-ion,,590,174,450,5.5
+BMW,i7 M70 xDrive,250,101.7,Lithium-ion,,1100,208,490,3.7
+BMW,i7 eDrive50,205,101.7,Lithium-ion,,650,177,520,5.5
+BMW,i7 xDrive60,240,101.7,Lithium-ion,,745,172,510,4.7
+BMW,iX M70 xDrive,250,108.9,Lithium-ion,,1015,209,500,3.8
+BMW,iX xDrive45,200,94.8,Lithium-ion,,700,193,470,5.1
+BMW,iX xDrive60,200,109.1,Lithium-ion,,765,194,525,4.6
+BMW,iX1 eDrive20,170,64.7,Lithium-ion,,247,150,390,8.3
+BMW,iX1 xDrive30,180,64.7,Lithium-ion,,494,155,380,5.6
+BMW,iX2 eDrive20,170,64.7,Lithium-ion,,247,147,395,8.6
+BMW,iX2 xDrive30,180,64.7,Lithium-ion,,494,155,385,5.6
+BYD,ATTO 2,160,45.1,Lithium-ion,,290,145,245,7.9
+BYD,ATTO 3 (MY25),160,60.5,Lithium-ion,126,310,144,340,7.3
+BYD,DOLPHIN 44.9 kWh Active,150,44.9,Lithium-ion,104,180,132,265,12.3
+BYD,DOLPHIN 44.9 kWh Boost,160,44.9,Lithium-ion,104,,145,260,8.0
+BYD,DOLPHIN 60.4 kWh,160,60.5,Lithium-ion,126,310,142,350,7.0
+BYD,DOLPHIN SURF 30 kWh Active,150,30.0,Lithium-ion,94,175,136,190,11.1
+BYD,DOLPHIN SURF 43.2 kWh Boost,150,43.2,Lithium-ion,90,175,134,270,12.1
+BYD,DOLPHIN SURF 43.2 kWh Comfort,150,43.2,Lithium-ion,90,220,139,265,9.1
+BYD,SEAL 61.4 kWh RWD Comfort,220,61.4,Lithium-ion,128,380,133,365,7.5
+BYD,SEAL 82.5 kWh AWD Excellence,180,82.5,Lithium-ion,172,670,159,445,3.8
+BYD,SEAL 82.5 kWh RWD Design,180,82.5,Lithium-ion,172,360,145,480,5.9
+BYD,SEAL U 71.8 kWh Comfort,175,71.8,Lithium-ion,132,310,171,360,9.3
+BYD,SEAL U 87 kWh Design,175,87.0,Lithium-ion,160,330,174,425,9.6
+BYD,SEALION 7 82.5 kWh AWD Design,215,82.5,Lithium-ion,172,690,181,400,4.5
+BYD,SEALION 7 82.5 kWh RWD Comfort,215,82.5,Lithium-ion,172,380,171,415,6.7
+BYD,SEALION 7 91.3 kWh AWD Excellence,215,91.3,Lithium-ion,,690,182,430,4.5
+BYD,TANG Flagship,190,108.8,Lithium-ion,,700,205,460,4.9
+CUPRA,Born 170 kW - 59 kWh,160,59.0,Lithium-ion,216,310,156,360,6.7
+CUPRA,Born 170 kW - 77 kWh,160,77.0,Lithium-ion,288,310,157,460,7.0
+CUPRA,Born VZ,200,79.0,Lithium-ion,288,545,149,465,5.6
+CUPRA,Tavascan Endurance,180,77.0,Lithium-ion,288,545,142,445,6.8
+CUPRA,Tavascan VZ,180,77.0,Lithium-ion,288,545,150,425,5.5
+Cadillac,Lyriq 600 E4,210,102.0,Lithium-ion,288,610,192,460,5.3
+Citroen,e-Berlingo M 50 kWh,132,50.0,Lithium-ion,,260,149,235,11.7
+Citroen,e-Berlingo XL 50 kWh,132,50.0,Lithium-ion,,260,149,230,11.7
+Citroen,e-C3,135,44.0,Lithium-ion,,120,135,255,11.5
+Citroen,e-C3 Aircross,145,44.0,Lithium-ion,,125,144,240,12.9
+Citroen,e-C4,150,46.3,Lithium-ion,216,260,135,285,9.9
+Citroen,e-C4 54 kWh,150,50.8,Lithium-ion,102,260,122,325,9.1
+Citroen,e-C4 X,150,46.3,Lithium-ion,216,260,132,290,9.9
+Citroen,e-C4 X 54 kWh,150,50.8,Lithium-ion,102,260,119,335,9.1
+Citroen,e-SpaceTourer M 50 kWh,130,46.3,Lithium-ion,216,220,217,180,13.3
+Citroen,e-SpaceTourer M 75 kWh,130,68.0,Lithium-ion,324,220,202,260,14.2
+Citroen,e-SpaceTourer XL 50 kWh,130,46.3,Lithium-ion,216,220,219,180,13.3
+Citroen,e-SpaceTourer XL 75 kWh,130,68.0,Lithium-ion,324,220,204,260,14.2
+DS,3 E-Tense,150,50.8,Lithium-ion,102,260,128,300,9.0
+DS,N°4 E-Tense,160,58.3,Lithium-ion,,345,130,375,7.1
+DS,N°8 AWD Long Range,190,97.2,Lithium-ion,,511,146,530,5.4
+DS,N°8 FWD,190,73.7,Lithium-ion,,345,141,415,7.7
+DS,N°8 FWD Long Range,190,97.2,Lithium-ion,,345,136,545,7.8
+Dacia,Spring Electric 45,125,25.0,Lithium-ion,72,125,109,165,19.1
+Dacia,Spring Electric 65,125,25.0,Lithium-ion,72,113,114,160,13.7
+Dongfeng,Box 31.4 kWh,140,29.0,Lithium-ion,,160,126,190,12.5
+Dongfeng,Box 42.3 kWh,140,40.0,Lithium-ion,,160,129,255,12.5
+Elaris,BEO 86 kWh,150,81.0,Lithium-ion,,320,203,390,9.5
+Fiat,500e 3+1 24 kWh,135,21.3,Lithium-ion,108,220,112,135,9.0
+Fiat,500e 3+1 42 kWh,150,37.3,Lithium-ion,192,220,122,235,9.0
+Fiat,500e Cabrio 24 kWh,135,21.3,Lithium-ion,108,220,112,135,9.0
+Fiat,500e Cabrio 42 kWh,150,37.3,Lithium-ion,192,220,125,230,9.0
+Fiat,500e Hatchback 24 kWh,135,21.3,Lithium-ion,108,220,112,135,9.0
+Fiat,500e Hatchback 42 kWh,150,37.3,Lithium-ion,192,220,118,235,9.0
+Fiat,600e,150,50.8,Lithium-ion,102,260,124,310,9.0
+Fiat,Grande Panda,132,43.8,Lithium-ion,,122,136,260,11.0
+Ford,Capri Extended Range AWD,180,79.0,Lithium-ion,288,679,148,455,5.3
+Ford,Capri Extended Range RWD,180,77.0,Lithium-ion,288,545,135,455,6.4
+Ford,Capri Standard Range RWD,160,52.0,Lithium-ion,192,310,163,320,9.0
+Ford,Explorer Extended Range AWD,180,79.0,Lithium-ion,288,679,153,440,5.3
+Ford,Explorer Extended Range RWD,180,77.0,Lithium-ion,288,545,139,435,6.4
+Ford,Explorer Standard Range RWD,160,52.0,Lithium-ion,192,310,137,305,8.7
+Ford,Mustang Mach-E ER AWD (MY25),180,88.0,Lithium-ion,,675,160,435,4.8
+Ford,Mustang Mach-E ER AWD (MY24),180,91.0,Lithium-ion,376,675,165,445,4.6
+Ford,Mustang Mach-E ER RWD (MY25),180,88.0,Lithium-ion,,525,147,475,6.1
+Ford,Mustang Mach-E ER RWD (MY24),180,91.0,Lithium-ion,376,525,152,480,5.9
+Ford,Mustang Mach-E GT (MY24),200,91.0,Lithium-ion,376,950,177,425,3.8
+Ford,Mustang Mach-E GT (MY25),200,91.0,Lithium-ion,376,950,177,435,3.8
+Ford,Mustang Mach-E Rally (MY25),200,91.0,Lithium-ion,376,950,178,415,3.9
+Ford,Mustang Mach-E Rally (MY24),200,91.0,Lithium-ion,376,950,178,410,3.9
+Ford,Mustang Mach-E SR RWD (MY24),180,72.6,Lithium-ion,,525,154,385,6.2
+Ford,Mustang Mach-E SR RWD (MY25),180,72.6,Lithium-ion,,525,154,380,6.2
+Ford,Puma Gen-E,160,43.6,Lithium-ion,,290,126,275,8.0
+Ford,e-Tourneo Courier,145,43.6,Lithium-ion,,290,164,200,11.0
+Ford,e-Tourneo Custom L1 160 kW,130,64.0,Lithium-ion,,415,370,235,9.0
+Ford,e-Tourneo Custom L1 210 kW,130,64.0,Lithium-ion,,415,370,235,8.0
+Ford,e-Tourneo Custom L2 160 kW,150,64.0,Lithium-ion,,415,370,235,9.0
+Ford,e-Tourneo Custom L2 210 kW,150,64.0,Lithium-ion,,415,370,235,8.0
+GWM,ORA 03 48 kWh,160,45.4,Lithium-ion,,250,146,260,8.3
+GWM,ORA 03 63 kWh,160,59.3,Lithium-ion,,250,141,340,8.2
+GWM,ORA 03 GT,160,59.3,Lithium-ion,,250,148,325,8.2
+GWM,ORA 07 GT,180,83.5,Lithium-ion,,680,161,430,4.5
+GWM,ORA 07 Pro,170,64.3,Lithium-ion,,340,146,350,8.2
+GWM,ORA 07 Pure,170,64.3,Lithium-ion,,340,146,350,8.2
+Genesis,G80 Electrified Luxury,225,82.5,Lithium-ion,,700,159,440,4.9
+Genesis,GV60 Premium,185,74.0,Lithium-ion,384,350,143,390,7.8
+Genesis,GV60 Sport,200,74.0,Lithium-ion,384,605,157,375,5.5
+Genesis,GV60 Sport Plus,235,74.0,Lithium-ion,384,700,159,360,4.0
+Genesis,GV70 Electrified Sport,235,74.0,Lithium-ion,384,700,163,350,4.2
+Honda,e:Ny1,160,61.9,Lithium-ion,,310,150,335,7.6
+Hongqi,E-HS9 120 kWh,200,112.0,Lithium-ion,,750,217,455,4.9
+Hongqi,E-HS9 84 kWh,200,76.5,Lithium-ion,,600,193,320,6.5
+Hongqi,E-HS9 99 kWh,200,90.0,Lithium-ion,,750,194,370,4.9
+Hyundai,INSTER Long Range,150,46.0,Lithium-ion,,147,124,300,10.6
+Hyundai,INSTER Standard Range,140,39.0,Lithium-ion,,147,119,255,11.7
+Hyundai,IONIQ 5 63 kWh RWD (MY24),185,60.0,Lithium-ion,288,350,136,345,8.5
+Hyundai,IONIQ 5 84 kWh AWD (MY24),185,80.0,Lithium-ion,384,605,162,445,5.3
+Hyundai,IONIQ 5 84 kWh RWD (MY24),185,80.0,Lithium-ion,384,350,155,450,7.5
+Hyundai,IONIQ 5 N (MY24),260,80.0,Lithium-ion,384,740,179,390,3.4
+Hyundai,IONIQ 6 Long Range 2WD,185,74.0,Lithium-ion,384,350,136,495,7.4
+Hyundai,IONIQ 6 Long Range AWD,185,74.0,Lithium-ion,384,605,143,440,5.1
+Hyundai,IONIQ 6 Standard Range 2WD,185,50.0,Lithium-ion,264,350,117,335,8.8
+Hyundai,IONIQ 9 Long Range AWD,200,106.0,Lithium-ion,,605,177,490,6.7
+Hyundai,IONIQ 9 Long Range RWD,185,106.0,Lithium-ion,,350,171,500,9.4
+Hyundai,IONIQ 9 Performance AWD,200,106.0,Lithium-ion,,700,177,480,5.2
+Hyundai,Kona Electric 48 kWh,160,48.4,Lithium-ion,,255,128,295,8.8
+Hyundai,Kona Electric 65 kWh,170,65.4,Lithium-ion,,255,144,390,7.8
+Jaguar,I-Pace EV400,200,84.7,Lithium-ion,432,696,208,380,4.8
+Jeep,Avenger Electric,150,50.8,Lithium-ion,102,260,132,310,9.0
+Jeep,Compass Electric 74 kWh,180,74.0,Lithium-ion,,345,148,370,8.5
+KGM,Torres EVX,175,72.0,Lithium-ion,,339,156,370,8.1
+Kia,EV3 Long Range,170,78.0,Lithium-ion,,283,139,455,7.7
+Kia,EV3 Standard Range,170,55.0,Lithium-ion,,283,133,325,7.5
+Kia,EV4 Hatchback Long Range,170,78.0,Lithium-ion,,283,132,475,7.7
+Kia,EV4 Hatchback Standard Range,170,55.0,Lithium-ion,,283,134,340,7.4
+Kia,EV4 Sedan Long Range,170,78.0,Lithium-ion,,283,124,495,7.7
+Kia,EV4 Sedan Standard Range,170,55.0,Lithium-ion,,283,128,355,7.4
+Kia,EV6 GT,260,80.0,Lithium-ion,384,770,178,385,3.5
+Kia,EV6 Long Range 2WD,185,80.0,Lithium-ion,384,350,143,455,7.3
+Kia,EV6 Long Range AWD,185,80.0,Lithium-ion,384,605,154,440,5.2
+Kia,EV6 Standard Range 2WD,185,60.0,Lithium-ion,288,350,140,345,8.7
+Kia,EV9 76.1 kWh RWD,190,73.0,Lithium-ion,348,350,165,355,8.5
+Kia,EV9 99.8 kWh AWD,200,96.0,Lithium-ion,456,600,188,435,6.0
+Kia,EV9 99.8 kWh AWD GT,220,96.0,Lithium-ion,456,740,190,420,4.6
+Kia,EV9 99.8 kWh AWD GT-Line,200,96.0,Lithium-ion,456,700,190,425,5.3
+Kia,EV9 99.8 kWh RWD,185,96.0,Lithium-ion,456,350,171,450,9.4
+Kia,Niro EV,167,64.8,Lithium-ion,96,255,140,385,7.8
+Lancia,Ypsilon,150,48.1,Lithium-ion,96,260,122,310,8.2
+Leapmotor,C10,170,69.9,Lithium-ion,,320,166,350,7.5
+Leapmotor,T03,130,36.0,Lithium-ion,,158,136,225,12.7
+Lexus,RZ 300e,160,64.0,Lithium-ion,96,266,149,365,8.0
+Lexus,RZ 450e,160,64.0,Lithium-ion,96,435,158,350,5.6
+Lexus,UX 300e,160,64.0,Lithium-ion,96,300,145,340,7.5
+Lotus,Eletre,250,109.0,Lithium-ion,,710,204,495,4.5
+Lotus,Eletre R,260,109.0,Lithium-ion,,985,266,455,2.9
+Lotus,Eletre S,250,109.0,Lithium-ion,,710,222,480,4.5
+Lotus,Emeya,250,98.9,Lithium-ion,,710,198,520,4.2
+Lotus,Emeya R,256,98.9,Lithium-ion,,985,227,465,2.8
+Lotus,Emeya S,250,98.9,Lithium-ion,,710,198,520,4.2
+Lucid,Air Grand Touring,270,112.0,Lithium-ion,6600,1200,143,665,3.0
+Lucid,Air Pure RWD,200,92.0,Lithium-ion,5400,,130,565,4.7
+Lucid,Air Touring,250,92.0,Lithium-ion,5400,,142,580,3.2
+Lynk&Co,02,180,65.0,Lithium-ion,,343,149,370,5.5
+MG,Cyberster GT,200,74.4,Lithium-ion,,725,168,395,3.2
+MG,Cyberster Trophy,195,74.4,Lithium-ion,,475,146,425,5.0
+MG,4 Electric 51 kWh,160,50.8,Lithium-ion,104,250,145,300,7.7
+MG,4 Electric 64 kWh,160,61.7,Lithium-ion,104,250,142,360,7.9
+MG,4 Electric 77 kWh,180,74.4,Lithium-ion,,350,143,425,6.5
+MG,4 Electric XPOWER,200,61.7,Lithium-ion,104,600,160,320,3.8
+MG,5 Electric Long Range,185,57.4,Lithium-ion,,280,151,335,7.7
+MG,5 Electric Standard Range,185,46.0,Lithium-ion,,280,148,265,7.7
+MG,S5  EV 49 kWh,170,47.1,Lithium-ion,,250,139,275,8.0
+MG,S5  EV 64 kWh,190,62.1,Lithium-ion,,350,134,365,6.3
+MG,ZS EV Long Range,175,68.3,Lithium-ion,,280,155,370,8.4
+MG,ZS EV Standard Range,175,49.0,Lithium-ion,,280,153,265,8.6
+Maserati,GranCabrio Folgore,290,83.0,Lithium-ion,,1350,198,395,2.8
+Maserati,GranTurismo Folgore,325,83.0,Lithium-ion,,1350,182,420,2.7
+Maserati,Grecale Folgore,220,95.0,Lithium-ion,,820,220,400,4.1
+Maxus,MIFA 9,180,84.0,Lithium-ion,,350,195,365,9.2
+Mazda,6e 68.8 kWh,175,66.0,Lithium-ion,,320,138,390,7.6
+Mazda,6e Long Range 80 kWh,175,75.0,Lithium-ion,,320,136,440,7.8
+Mercedes-Benz,CLA 250+,210,85.0,Lithium-ion,,335,122,565,6.7
+Mercedes-Benz,CLA 350 4MATIC,210,85.0,Lithium-ion,,515,126,550,4.9
+Mercedes-Benz,EQA 250,160,66.5,Lithium-ion,300,385,146,395,8.6
+Mercedes-Benz,EQA 250+,160,70.5,Lithium-ion,,385,142,420,8.6
+Mercedes-Benz,EQA 300 4MATIC,160,66.5,Lithium-ion,300,390,162,350,7.7
+Mercedes-Benz,EQA 350 4MATIC,160,66.5,Lithium-ion,300,520,162,350,6.0
+Mercedes-Benz,EQB 250+,160,70.5,Lithium-ion,,385,152,415,8.9
+Mercedes-Benz,EQB 300 4MATIC,160,66.5,Lithium-ion,300,390,168,345,8.0
+Mercedes-Benz,EQB 350 4MATIC,160,66.5,Lithium-ion,300,520,168,345,6.2
+Mercedes-Benz,EQE 300,210,89.0,Lithium-ion,,550,163,525,7.3
+Mercedes-Benz,EQE 350 4MATIC,210,90.6,Lithium-ion,360,765,173,515,6.3
+Mercedes-Benz,EQE 350+,210,96.0,Lithium-ion,,565,164,555,6.5
+Mercedes-Benz,EQE 500 4MATIC,210,90.6,Lithium-ion,360,858,173,505,4.7
+Mercedes-Benz,EQE AMG 43 4MATIC,210,90.6,Lithium-ion,360,858,207,450,4.2
+Mercedes-Benz,EQE AMG 53 4MATIC+,220,90.6,Lithium-ion,360,950,208,450,3.5
+Mercedes-Benz,EQE SUV 300,210,90.6,Lithium-ion,,550,182,450,7.6
+Mercedes-Benz,EQE SUV 350 4MATIC,210,90.6,Lithium-ion,,765,189,435,6.6
+Mercedes-Benz,EQE SUV 350+,210,96.0,Lithium-ion,,565,164,475,6.9
+Mercedes-Benz,EQE SUV 500 4MATIC,210,96.0,Lithium-ion,,858,187,455,4.9
+Mercedes-Benz,EQE SUV AMG 43 4MATIC,210,90.6,Lithium-ion,360,858,214,425,4.3
+Mercedes-Benz,EQE SUV AMG 53 4MATIC+,240,90.6,Lithium-ion,360,1000,242,420,3.5
+Mercedes-Benz,EQS 350,210,96.0,Lithium-ion,360,565,165,570,6.7
+Mercedes-Benz,EQS 450 4MATIC,210,118.0,Lithium-ion,,800,180,655,5.7
+Mercedes-Benz,EQS 450+,210,118.0,Lithium-ion,,568,173,685,6.2
+Mercedes-Benz,EQS 500 4MATIC,210,118.0,Lithium-ion,,828,180,640,4.9
+Mercedes-Benz,EQS 580 4MATIC,210,118.0,Lithium-ion,,858,180,640,4.4
+Mercedes-Benz,EQS AMG 53 4MATIC+,250,118.0,Lithium-ion,,1020,222,585,3.4
+Mercedes-Benz,EQS SUV 450 4MATIC,210,118.0,Lithium-ion,,800,199,530,6.1
+Mercedes-Benz,EQS SUV 450+,210,118.0,Lithium-ion,,568,195,540,6.8
+Mercedes-Benz,EQS SUV 500 4MATIC,210,118.0,Lithium-ion,,828,199,530,5.3
+Mercedes-Benz,EQS SUV 580 4MATIC,210,118.0,Lithium-ion,,858,199,530,4.7
+Mercedes-Benz,EQS SUV Maybach 680,210,118.0,Lithium-ion,,950,211,490,4.4
+Mercedes-Benz,EQT 200 Long,132,45.0,Lithium-ion,,245,177,220,13.3
+Mercedes-Benz,EQT 200 Standard,132,45.0,Lithium-ion,,245,167,225,12.6
+Mercedes-Benz,EQV 250 Extra-Long,160,60.0,Lithium-ion,192,365,282,210,12.0
+Mercedes-Benz,EQV 250 Long,160,60.0,Lithium-ion,192,365,282,215,12.0
+Mercedes-Benz,EQV 300 Extra-Long,140,90.0,Lithium-ion,288,365,249,315,12.2
+Mercedes-Benz,EQV 300 Long,160,90.0,Lithium-ion,288,365,276,320,12.1
+Mercedes-Benz,G 580,180,116.0,Lithium-ion,216,1164,267,360,4.7
+Mercedes-Benz,eVito Tourer Extra-Long 60 kWh,160,60.0,Lithium-ion,192,360,254,215,12.0
+Mercedes-Benz,eVito Tourer Long 60 kWh,160,60.0,Lithium-ion,192,360,259,220,12.0
+Mercedes-Benz,eVito Tourer Long 90 kWh,160,90.0,Lithium-ion,288,360,260,325,12.1
+Mini,Aceman E,160,38.5,Lithium-ion,,290,129,230,7.9
+Mini,Aceman JCW,200,49.2,Lithium-ion,,350,143,280,6.4
+Mini,Aceman SE,170,49.2,Lithium-ion,,330,129,290,7.1
+Mini,Cooper E,160,36.6,Lithium-ion,,290,125,250,7.3
+Mini,Cooper JCW,200,49.2,Lithium-ion,,350,135,290,5.9
+Mini,Cooper SE,170,49.2,Lithium-ion,,330,127,330,6.7
+Mini,Countryman E,170,64.6,Lithium-ion,,250,140,380,8.6
+Mini,Countryman SE ALL4,180,64.6,Lithium-ion,,494,149,365,5.6
+NIO,EL6 Long Range,200,90.0,Lithium-ion,96,700,170,435,4.5
+NIO,EL6 Standard Range,200,73.5,Lithium-ion,118,700,181,365,4.5
+NIO,EL7 Long Range,200,90.0,Lithium-ion,96,850,185,430,3.9
+NIO,EL7 Standard Range,200,73.5,Lithium-ion,118,850,198,355,3.9
+NIO,EL8 Long Range,200,90.0,Lithium-ion,96,850,185,440,4.1
+NIO,EL8 Standard Range,200,73.5,Lithium-ion,118,850,196,360,4.1
+NIO,ET5 Long Range,200,90.0,Lithium-ion,96,700,167,500,4.0
+NIO,ET5 Standard Range,200,73.5,Lithium-ion,118,700,175,410,4.0
+NIO,ET5 Touring Long Range,200,90.0,Lithium-ion,96,700,178,485,4.0
+NIO,ET5 Touring Standard Range,200,73.5,Lithium-ion,118,700,169,400,4.0
+NIO,ET7 Long Range,200,90.0,Lithium-ion,96,850,178,505,3.8
+NIO,ET7 Standard Range,200,73.5,Lithium-ion,118,850,191,415,3.8
+Nissan,Ariya 63kWh,160,63.0,Lithium-ion,,300,175,335,7.5
+Nissan,Ariya 87kWh,160,87.0,Lithium-ion,,300,169,450,7.6
+Nissan,Ariya e-4ORCE 87kWh - 225 kW,200,87.0,Lithium-ion,,600,190,405,5.7
+Nissan,Ariya e-4ORCE 87kWh - 320 kW Nismo,200,87.0,Lithium-ion,,600,209,385,5.0
+Nissan,Townstar EV Passenger,132,45.0,Lithium-ion,,245,158,225,12.6
+Nissan,Townstar EV Passenger L2,130,45.0,Lithium-ion,,245,173,220,13.3
+Omoda,E5,172,61.0,Lithium-ion,,340,152,345,7.6
+Opel,Astra Electric,170,50.8,Lithium-ion,102,270,128,320,9.2
+Opel,Astra Sports Tourer Electric,170,50.8,Lithium-ion,102,270,123,310,9.3
+Opel,Combo-e Life 50 kWh,135,50.0,Lithium-ion,,260,149,235,11.3
+Opel,Combo-e Life XL 50 kWh,135,50.0,Lithium-ion,,260,149,230,11.3
+Opel,Corsa Electric 50 kWh,150,46.3,Lithium-ion,216,260,131,290,8.7
+Opel,Corsa Electric 51 kWh,150,48.1,Lithium-ion,96,260,120,315,8.1
+Opel,Frontera 44 kWh,140,44.0,Lithium-ion,,120,144,245,12.1
+Opel,Grandland 73 kWh,170,73.0,Lithium-ion,96,260,145,365,9.0
+Opel,Grandland 82 kWh,170,82.2,Lithium-ion,,260,146,410,9.0
+Opel,Mokka Electric,150,50.8,Lithium-ion,102,260,126,285,9.0
+Opel,Zafira-e Life L2 50 kWh,130,46.3,Lithium-ion,216,270,217,180,13.3
+Opel,Zafira-e Life L2 75 kWh,130,68.0,Lithium-ion,324,270,202,260,14.2
+Opel,Zafira-e Life L3 50 kWh,130,46.3,Lithium-ion,216,270,219,180,13.3
+Opel,Zafira-e Life L3 75 kWh,130,68.0,Lithium-ion,324,260,204,260,14.2
+Peugeot,e-2008 50 kWh,150,46.3,Lithium-ion,216,260,136,270,9.9
+Peugeot,e-2008 54 kWh,150,50.8,Lithium-ion,102,260,125,300,9.1
+Peugeot,e-208 50 kWh,150,46.3,Lithium-ion,216,260,132,290,9.0
+Peugeot,e-208 51 kWh,150,48.1,Lithium-ion,96,260,120,310,8.2
+Peugeot,e-3008 73 kWh,170,73.0,Lithium-ion,96,345,143,380,8.8
+Peugeot,e-3008 73 kWh Dual Motor,170,73.0,Lithium-ion,96,511,195,375,6.4
+Peugeot,e-3008 97 kWh Long Range,170,96.9,Lithium-ion,,345,145,500,8.7
+Peugeot,e-308,170,50.8,Lithium-ion,102,260,124,300,9.8
+Peugeot,e-308 SW,150,50.8,Lithium-ion,102,260,127,300,10.0
+Peugeot,e-408 58 kWh,160,58.3,Lithium-ion,,345,129,375,7.2
+Peugeot,e-5008 73 kWh,170,73.0,Lithium-ion,96,345,150,370,9.7
+Peugeot,e-5008 73 kWh Dual Motor,170,73.0,Lithium-ion,96,511,203,360,7.0
+Peugeot,e-5008 97 kWh Long Range,170,96.9,Lithium-ion,,345,152,485,9.6
+Peugeot,e-Rifter M 50 kWh,132,50.0,Lithium-ion,,270,152,235,11.7
+Peugeot,e-Rifter XL 50 kWh,132,50.0,Lithium-ion,,270,153,230,11.7
+Peugeot,e-Traveller L2 50 kWh,130,46.3,Lithium-ion,216,270,217,180,13.3
+Peugeot,e-Traveller L2 75 kWh,130,68.0,Lithium-ion,324,270,202,260,14.2
+Peugeot,e-Traveller L3 50 kWh,130,46.3,Lithium-ion,216,270,219,180,13.3
+Peugeot,e-Traveller L3 75 kWh,130,68.0,Lithium-ion,324,270,204,260,14.2
+Polestar,2 Long Range Dual Motor (MY26),205,79.0,Lithium-ion,324,740,142,455,4.5
+Polestar,2 Long Range Performance (MY26),205,79.0,Lithium-ion,324,740,142,450,4.2
+Polestar,2 Long Range Single Motor (MY26),205,79.0,Lithium-ion,324,490,130,475,6.2
+Polestar,2 Standard Range Single Motor (MY26),205,67.0,Lithium-ion,,490,129,405,6.4
+Polestar,3 Long Range Dual motor,210,107.0,Lithium-ion,204,840,183,515,5.0
+Polestar,3 Long Range Performance,210,107.0,Lithium-ion,204,910,194,495,4.7
+Polestar,3 Long Range Single motor,180,107.0,Lithium-ion,204,490,166,530,7.8
+Polestar,4 Long Range Dual Motor,200,94.0,Lithium-ion,110,686,165,485,3.8
+Polestar,4 Long Range Single Motor,180,94.0,Lithium-ion,110,343,157,495,7.4
+Porsche,Macan 4 Electric,220,95.0,Lithium-ion,180,650,184,470,5.2
+Porsche,Macan 4S Electric,240,95.0,Lithium-ion,180,820,186,470,4.1
+Porsche,Macan Electric,220,95.0,Lithium-ion,180,563,177,495,5.7
+Porsche,Macan Turbo Electric,260,95.0,Lithium-ion,180,1001,183,460,3.3
+Porsche,Taycan,230,82.3,Lithium-ion,,410,164,495,4.8
+Porsche,Taycan 4,230,82.3,Lithium-ion,,585,172,490,4.6
+Porsche,Taycan 4 Cross Turismo,220,97.0,Lithium-ion,396,610,188,510,4.7
+Porsche,Taycan 4 Plus,230,97.0,Lithium-ion,396,610,175,565,4.6
+Porsche,Taycan 4S,250,82.3,Lithium-ion,,695,174,490,3.7
+Porsche,Taycan 4S Cross Turismo,240,97.0,Lithium-ion,396,710,188,510,3.8
+Porsche,Taycan 4S Plus,250,97.0,Lithium-ion,396,710,177,565,3.7
+Porsche,Taycan 4S Plus Sport Turismo,250,97.0,Lithium-ion,396,710,186,510,3.7
+Porsche,Taycan 4S Sport Turismo,250,82.3,Lithium-ion,,695,183,440,3.7
+Porsche,Taycan GTS,250,97.0,Lithium-ion,396,790,176,535,3.3
+Porsche,Taycan GTS Sport Turismo,250,97.0,Lithium-ion,396,790,185,505,3.3
+Porsche,Taycan Plus,230,97.0,Lithium-ion,396,420,168,575,4.8
+Porsche,Taycan Plus Sport Turismo,230,97.0,Lithium-ion,396,420,176,530,4.8
+Porsche,Taycan Sport Turismo,230,82.3,Lithium-ion,,410,173,460,4.8
+Porsche,Taycan Turbo,260,97.0,Lithium-ion,396,940,174,535,2.7
+Porsche,Taycan Turbo Cross Turismo,250,97.0,Lithium-ion,396,940,188,495,2.8
+Porsche,Taycan Turbo GT,290,97.0,Lithium-ion,396,1340,184,475,2.3
+Porsche,Taycan Turbo GT Weissach,305,97.0,Lithium-ion,396,1340,180,475,2.2
+Porsche,Taycan Turbo S,260,97.0,Lithium-ion,396,1110,174,525,2.4
+Porsche,Taycan Turbo S Cross Turismo,250,97.0,Lithium-ion,396,1110,188,485,2.5
+Porsche,Taycan Turbo S Sport Turismo,260,97.0,Lithium-ion,396,1110,183,505,2.4
+Porsche,Taycan Turbo Sport Turismo,260,97.0,Lithium-ion,396,940,184,505,2.7
+Renault,4 E-Tech 40kWh 120hp,150,40.0,Lithium-ion,93,225,124,245,9.2
+Renault,4 E-Tech 52kWh 150hp,150,52.0,Lithium-ion,184,245,127,315,8.2
+Renault,5 E-Tech 40kWh 120hp,150,40.0,Lithium-ion,93,225,132,250,9.0
+Renault,5 E-Tech 40kWh 95hp,130,40.0,Lithium-ion,93,215,129,255,12.0
+Renault,5 E-Tech 52kWh 150hp,150,52.0,Lithium-ion,184,245,129,320,8.0
+Renault,Kangoo E-Tech Electric,135,45.0,Lithium-ion,,245,158,225,12.6
+Renault,Kangoo Grand E-Tech Electric,130,45.0,Lithium-ion,,245,170,220,13.3
+Renault,Megane E-Tech EV60 130hp (TU2025),150,60.0,Lithium-ion,288,250,125,380,10.5
+Renault,Megane E-Tech EV60 220hp (TU2025),160,60.0,Lithium-ion,288,300,133,380,7.4
+Renault,Scenic E-Tech EV60 170hp,150,60.0,Lithium-ion,192,280,144,340,8.6
+Renault,Scenic E-Tech EV87 220hp,170,87.0,Lithium-ion,288,300,143,480,7.9
+Rolls-Royce,Spectre,250,102.0,Lithium-ion,,900,192,465,4.5
+Skoda,Elroq 50,160,52.0,Lithium-ion,192,310,149,310,9.0
+Skoda,Elroq 60,160,59.0,Lithium-ion,216,310,149,350,8.5
+Skoda,Elroq 85,180,77.0,Lithium-ion,288,545,145,450,6.6
+Skoda,Elroq RS,180,79.0,Lithium-ion,288,679,151,450,5.4
+Skoda,Enyaq 60,160,59.0,Lithium-ion,216,310,145,360,8.1
+Skoda,Enyaq 85,180,77.0,Lithium-ion,288,545,141,455,6.7
+Skoda,Enyaq 85x,180,77.0,Lithium-ion,288,679,150,450,6.7
+Skoda,Enyaq Coupe 60,160,59.0,Lithium-ion,216,310,141,370,8.1
+Skoda,Enyaq Coupe 85,180,77.0,Lithium-ion,288,545,138,470,6.7
+Skoda,Enyaq Coupe 85x,180,77.0,Lithium-ion,288,679,146,460,6.7
+Skoda,Enyaq Coupe RS,180,79.0,Lithium-ion,288,679,143,470,5.4
+Skoda,Enyaq RS,180,79.0,Lithium-ion,288,679,147,460,5.4
+Skywell,BE11 Long Range,150,81.0,Lithium-ion,,320,166,390,9.6
+Skywell,BE11 Standard Range,150,68.0,Lithium-ion,,320,149,330,9.6
+Smart,#1 Brabus,180,62.0,Lithium-ion,,584,155,325,3.9
+Smart,#1 Premium,180,62.0,Lithium-ion,,343,141,335,6.7
+Smart,#1 Pro,180,47.0,Lithium-ion,,343,152,250,6.7
+Smart,#1 Pro+,180,62.0,Lithium-ion,,343,148,335,6.7
+Smart,#1 Pulse,180,62.0,Lithium-ion,,584,155,325,4.5
+Smart,#1 Pure,180,47.0,Lithium-ion,,343,152,250,6.7
+Smart,#1 Pure+,180,62.0,Lithium-ion,,343,148,335,6.7
+Smart,#3 Brabus,180,62.0,Lithium-ion,,543,149,335,3.7
+Smart,#3 Premium,180,62.0,Lithium-ion,,343,136,355,5.8
+Smart,#3 Pro,180,47.0,Lithium-ion,,343,145,265,5.9
+Smart,#3 Pro+,180,62.0,Lithium-ion,,343,143,355,5.8
+Smart,#5 Brabus,210,94.0,Lithium-ion,,710,174,450,3.8
+Smart,#5 Premium,200,94.0,Lithium-ion,,373,159,465,6.5
+Smart,#5 Pro,200,74.4,Lithium-ion,,373,160,370,6.9
+Smart,#5 Pro+,200,94.0,Lithium-ion,,373,159,465,6.5
+Smart,#5 Pulse,200,94.0,Lithium-ion,,643,174,455,4.9
+Smart,#5 Summit Edition,200,94.0,Lithium-ion,,643,174,455,4.9
+Subaru,Solterra AWD,160,64.0,Lithium-ion,96,336,154,320,6.9
+Tesla,Model 3 Long Range AWD (Highland),201,75.0,Lithium-ion,4416,493,119,525,4.4
+Tesla,Model 3 Long Range RWD (Highland),201,75.0,Lithium-ion,4416,450,117,545,5.2
+Tesla,Model 3 Performance (Highland),262,75.0,Lithium-ion,4416,741,142,490,3.2
+Tesla,Model 3 RWD (Highland CATL LFP64),201,60.5,Lithium-ion,,420,116,445,6.1
+Tesla,Model S Dual Motor,250,95.0,Lithium-ion,7920,,150,575,3.2
+Tesla,Model S Plaid,282,95.0,Lithium-ion,7920,,158,560,2.3
+Tesla,Model X Dual Motor,250,95.0,Lithium-ion,7920,,165,485,3.9
+Tesla,Model X Plaid,262,95.0,Lithium-ion,7920,,180,465,2.7
+Tesla,Model Y Long Range AWD (Juniper),201,75.0,Lithium-ion,4416,493,132,455,4.8
+Tesla,Model Y Long Range RWD (Juniper),201,75.0,Lithium-ion,4416,450,121,470,5.6
+Tesla,Model Y RWD (Juniper),201,60.5,Lithium-ion,,420,121,375,5.9
+Toyota,PROACE Verso L 75 kWh,130,68.0,Lithium-ion,324,260,204,260,13.3
+Toyota,PROACE Verso M 50 kWh,130,46.3,Lithium-ion,216,260,217,180,12.1
+Toyota,PROACE Verso M 75 kWh,130,68.0,Lithium-ion,324,260,202,260,13.3
+Toyota,Proace City Verso Electric L1 50 kWh,132,50.0,Lithium-ion,,260,149,235,11.7
+Toyota,Proace City Verso Electric L2 50 kWh,132,50.0,Lithium-ion,,260,149,230,11.7
+Toyota,bZ4X AWD,160,64.0,Lithium-ion,96,336,154,345,6.9
+Toyota,bZ4X FWD,160,64.0,Lithium-ion,96,265,145,350,7.5
+VinFast,VF 8 Eco Extended Range,200,87.7,Lithium-ion,,500,186,405,5.9
+VinFast,VF 8 Plus Extended Range,200,87.7,Lithium-ion,,620,196,400,5.5
+Volkswagen,ID. Buzz LWB GTX,160,86.0,Lithium-ion,312,560,182,350,6.5
+Volkswagen,ID. Buzz LWB Pro,160,86.0,Lithium-ion,312,560,190,370,7.9
+Volkswagen,ID. Buzz NWB GTX,160,79.0,Lithium-ion,288,560,194,330,6.5
+Volkswagen,ID. Buzz NWB Pro,160,79.0,Lithium-ion,288,560,187,360,7.6
+Volkswagen,ID. Buzz NWB Pure,145,59.0,Lithium-ion,216,310,178,275,10.7
+Volkswagen,ID.3 GTX,180,79.0,Lithium-ion,288,545,131,470,5.9
+Volkswagen,ID.3 GTX Performance,200,79.0,Lithium-ion,288,545,131,465,5.6
+Volkswagen,ID.3 Pro,160,59.0,Lithium-ion,216,310,136,365,7.6
+Volkswagen,ID.3 Pro S,160,77.0,Lithium-ion,288,310,138,465,7.1
+Volkswagen,ID.3 Pure,160,52.0,Lithium-ion,192,310,134,325,8.2
+Volkswagen,ID.4 GTX,180,77.0,Lithium-ion,288,679,152,420,5.4
+Volkswagen,ID.4 Pro,180,77.0,Lithium-ion,288,545,149,445,6.7
+Volkswagen,ID.4 Pro 4MOTION,180,77.0,Lithium-ion,288,679,155,435,6.6
+Volkswagen,ID.4 Pure,160,52.0,Lithium-ion,192,310,143,285,9.0
+Volkswagen,ID.5 GTX,180,77.0,Lithium-ion,288,679,144,430,5.5
+Volkswagen,ID.5 Pro,180,77.0,Lithium-ion,288,545,138,460,6.7
+Volkswagen,ID.5 Pure,160,52.0,Lithium-ion,288,310,142,320,8.9
+Volkswagen,ID.7 GTX,180,86.0,Lithium-ion,312,560,145,500,5.4
+Volkswagen,ID.7 Pro,180,77.0,Lithium-ion,288,550,132,475,6.5
+Volkswagen,ID.7 Pro S,180,86.0,Lithium-ion,312,550,133,525,6.6
+Volkswagen,ID.7 Tourer GTX,180,86.0,Lithium-ion,312,560,147,500,5.5
+Volkswagen,ID.7 Tourer Pro,180,77.0,Lithium-ion,288,550,146,470,6.6
+Volkswagen,ID.7 Tourer Pro S,180,86.0,Lithium-ion,312,550,125,520,6.7
+Volvo,EC40 Single Motor (MY26),180,67.0,Lithium-ion,,420,151,360,7.3
+Volvo,EC40 Single Motor ER (MY26),180,79.0,Lithium-ion,324,420,146,420,7.3
+Volvo,EC40 Twin Motor (MY26),180,79.0,Lithium-ion,324,670,155,400,4.8
+Volvo,EC40 Twin Motor Performance (MY26),180,79.0,Lithium-ion,324,670,155,400,4.6
+Volvo,ES90 Single Motor (MY26),180,88.0,Lithium-ion,,480,135,485,6.9
+Volvo,ES90 Twin Motor (MY26),180,102.0,Lithium-ion,,670,146,530,5.5
+Volvo,ES90 Twin Motor Performance (MY26),180,102.0,Lithium-ion,,870,146,530,4.0
+Volvo,EX30 Cross Country (MY26),180,65.0,Lithium-ion,,543,152,330,3.7
+Volvo,EX30 Single Motor (MY24-26),180,49.0,Lithium-ion,,343,147,275,5.7
+Volvo,EX30 Single Motor ER (MY24-26),180,65.0,Lithium-ion,,343,138,365,5.3
+Volvo,EX30 Twin Motor Performance (MY24-26),180,65.0,Lithium-ion,,543,145,340,3.6
+Volvo,EX40 Single Motor (MY26),180,67.0,Lithium-ion,,420,154,345,7.3
+Volvo,EX40 Single Motor ER (MY26),180,79.0,Lithium-ion,324,420,152,400,7.3
+Volvo,EX40 Twin Motor (MY26),180,79.0,Lithium-ion,324,670,163,385,4.8
+Volvo,EX40 Twin Motor Performance (MY26),180,79.0,Lithium-ion,324,670,163,385,4.6
+Volvo,EX90 Single Motor (MY24-26),180,100.0,Lithium-ion,192,490,182,460,8.4
+Volvo,EX90 Twin Motor (MY24-26),180,107.0,Lithium-ion,204,770,188,470,5.9
+Volvo,EX90 Twin Motor Performance (MY24-26),180,107.0,Lithium-ion,204,910,188,455,4.9
+Voyah,Free 106 kWh,200,100.0,Lithium-ion,,720,200,480,4.4
+XPENG,G6 AWD Performance,200,87.5,Lithium-ion,,660,159,475,4.1
+XPENG,G6 RWD Long Range,200,87.5,Lithium-ion,,440,154,480,6.7
+XPENG,G6 RWD Standard Range,200,66.0,Lithium-ion,,440,152,370,6.9
+XPENG,G9 AWD Performance,200,93.1,Lithium-ion,,717,179,465,3.9
+XPENG,G9 RWD Long Range,200,93.1,Lithium-ion,,430,163,480,6.4
+XPENG,G9 RWD Standard Range,200,75.8,Lithium-ion,,430,165,395,6.4
+XPENG,P7 AWD Performance,200,82.7,Lithium-ion,,757,164,460,4.1
+XPENG,P7 RWD Long Range,200,82.7,Lithium-ion,,440,144,495,6.7
+XPENG,P7 Wing Edition,200,82.7,Lithium-ion,,757,164,455,4.1
+Zeekr,001 Long Range RWD,200,94.0,Lithium-ion,110,343,152,505,7.2
+Zeekr,001 Performance AWD,200,94.0,Lithium-ion,110,686,159,480,3.8
+Zeekr,001 Privilege AWD,200,94.0,Lithium-ion,110,686,162,480,3.8
+Zeekr,7X Long Range RWD,210,94.0,Lithium-ion,,440,153,475,6.0
+Zeekr,7X Performance AWD,210,94.0,Lithium-ion,,710,173,450,3.8
+Zeekr,7X Premium RWD,210,71.0,Lithium-ion,,440,148,365,6.0
+Zeekr,X Core RWD (MY25),190,49.0,Lithium-ion,,343,148,265,5.9
+Zeekr,X Long Range RWD (MY25),190,65.0,Lithium-ion,,343,146,360,5.6
+Zeekr,X Privilege AWD (MY25),190,65.0,Lithium-ion,,543,153,350,3.8
+firefly,,150,41.2,Lithium-ion,112,200,125,250,8.1
