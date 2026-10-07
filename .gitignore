@@ -1,6 +1,7 @@
-# Excluded directories
+# Excluded files and directories
 05_PowerBI/
 06_Documentation/
+need.txt
 
 # Dependencies
 node_modules/
